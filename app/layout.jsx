@@ -3,8 +3,9 @@ import "./globals.css";
 import { Toaster } from "sonner";
 
 export const metadata = {
-  title: "Dashboard",
-  description: "Responsive user dashboard",
+  title: "Perfect Job Match",
+  description:
+    "Discover tailored job opportunities based on your skills, education with Hirely AI. Smart, fast, and made just for you.",
 };
 
 export default function RootLayout({ children }) {
